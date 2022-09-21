@@ -25,7 +25,7 @@
 [URL EXTERNA - dit.gonzalonazareno](https://dit.gonzalonazareno.org/gestiona/)
 
 ### Enlace a otro fichero markdown del repositorio
-[OTRO FICHERO MARKDOWN EN REPOSITORIO](https://github.com/angelsuarez1612/Taller_Markdown/blob/main/FicheroPrueba.md)
+[OTRO FICHERO MARKDOWN EN REPOSITORIO]([https://github.com/angelsuarez1612/Taller_Markdown/blob/main/FicheroPrueba.md](https://github.com/angelsuarez1612/prueba_angelsuarez/blob/main/README.md))
 
 ### Una imagen
 ![IMAGEN DEBIAN](/imagen/11-bullseye-wiki-banner-04.png)
